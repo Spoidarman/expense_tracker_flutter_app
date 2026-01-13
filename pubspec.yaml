@@ -39,6 +39,8 @@ dependencies:
   flutter_secure_storage: ^9.0.0
   device_info_plus: ^10.0.0
   uuid: ^4.0.0
+  hugeicons: ^0.0.7
+  shimmer: ^3.0.0
 
 dev_dependencies:
   flutter_test:
